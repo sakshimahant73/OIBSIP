@@ -1,0 +1,36 @@
+</style>
+</head>
+<br>
+  <h1>My Personal Portfolio</h1>
+  <br class="introduction">
+    <img src="./images/sakshi/IMG-20200803-WA0078.jpg" width=100 height=100 alt="Your Picture">
+    <h2>Sakshi sanjay mahant</h2>
+    <br>3rd year electronics and telecommunication engineering student </p>
+  </div>
+  <div class="contact-info">
+    <h2>Contact Information</h2>
+    <ul>
+      <li>Email: sakshi.mahant@gmail.com</li>
+      <li>Phone: (+91)9999*******</li>
+      <li>LinkedIn: https://www.linkedin.com/in/sakshi-m-478964219</li>
+    </ul>
+  </div>
+  <h2>Skills </h2>
+  <p>Microsoft office</p>
+     <p> c, c++, html, python, image processing, web</p>
+      <p>development</p>
+      <p>Microsoft excel</p>
+      <p>Tinkarcard</p>
+      <p>Easyeda</p>
+      <p>matlab</p>
+      <p>time management</p>
+      <h3>Projects</h3>
+         <p> : water level indicator ( Duration November 2021 - December 2021 ) 3 level water level indicator
+          indicates the overflow of water tank by beping buzzer Skills used - Arduino Uno,Arduino Ide</p>
+          <p>:bidirectional visitor counter ( Duration June 2022 - July 2022 ) counts the number of persons
+          entering or exiting from the room IR sensor and arduino used Skills used - Sensors</p>
+          <p>: snake repellent ( Duration November 2022 - December 2022 ) repells the snake by motor
+          vibrations vibration motor or pancake motor used Skills used - Vibration Testing,</p>
+          </p>:floor cleaning robot</p>
+</body>
+</html>
